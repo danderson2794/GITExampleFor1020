@@ -1,0 +1,19 @@
+- Why C++? 
+- Useful Tools for C++ (Show VS Code C++ linters)
+- objects
+
+
+Talk about:
+- Auto
+- Vectors
+- sick while loops
+- file input and output
+
+
+Group Programming assignment
+-> This will help you prepare for job interviews you may have this week. 
+-> Discuss how to approach the problem
+-> Not for a grade, We'll work through it together at the end. 	
+--> Discuss how to apply our technique today to their Programming Assignment for class
+
+Answer any questions. 
